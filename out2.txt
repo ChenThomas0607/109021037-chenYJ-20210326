@@ -1,93 +1,101 @@
-
-發明專利證書-I368494-遠端即時心復健訓練與自動監控回覆裝置及方法
-
-		發明人：吳明峰、溫志煜、許正園、王經篤
-		專利權人：國立中興大學、行政院國軍退除役官兵輔導委員會台中榮民總醫院
-		專利權期間：2012年7月21日至2029年1月9日止
-
-
-
-(U.S. Patent No. 10,409,844) 
-		Method for Extracting Maximal Repeat Patterns and Computing Frequency Distribution Tables. 
-		Applicant :Ching-Tu Wang, Taichung (TW)(Jing-Doo Wang) 
-		Inventor :Ching-Tu Wang, Taichung (TW)(Jing-Doo Wang) 
-		Period : 2019.9.10 - 2038.2.23 
-
-Book Title:
-		"Bioinformatics in the Era of Post Genomics and Big Data"
-	 
-
-Edited by: Prof. Ibrokhim Abdurakhmonov
-Publisher: InTechOpen
-November 2018
-ISBN:978-953-51-6056-4 
-
-				Chapter:
-				A novel approach to mine for genetic markers via comparing class frequency distributions of maximal repeats 
-					extracted from tagged whole genomic sequences
-Jing-Doo Wang
-
-
-
-Edited by: Prof. Ibrokhim Abdurakhmonov
-Publisher: InTechOpen
-November 2018
-ISBN:978-953-51-6056-4 
-
-				Chapter:
-				A novel approach to mine for genetic markers via comparing class frequency distributions of maximal repeats 
-					extracted from tagged whole genomic sequences
-Jing-Doo Wang
-
-Book Title: Discoveries and Breakthroughs in Cognitive Informatics and Natural Intelligence
-
-Edited by: Yingxu Wang, University of Calgary, Canada
-November 2009
-ISBN: 978-1-60566-902-1 
-
-				Chapter 28: Scaling Behavior of Maximal Repeat Distributions in Genomic Sequences --A Randomize Test Follow Up Study
-J.D. Wang and Ka-Lok Ng 
-			
-
-
-Edited by: Yingxu Wang, University of Calgary, Canada
-November 2009
-ISBN: 978-1-60566-902-1 
-
-				Chapter 28: Scaling Behavior of Maximal Repeat Distributions in Genomic Sequences --A Randomize Test Follow Up Study
-J.D. Wang and Ka-Lok Ng 
-			
-
- 
- 		Online Web query system for various frequency distributions of bus passengers in Taichung city of Taiwan
- 		
- Jing-Doo Wangand Shin-Hung Pan *, Cheng-Yuan Ho, Shu-chuan Liao, Yao-Nan Lien and Achmad Nurmandi(*: Corresponding author)
-	IET Smart Cities (Special issue:　Geospatial Sensing, Mining & Analytics for Smart Cities) 
-
-
-(Submitted)
- 		Extracting Common DNA Sequences in Complete Genomes of 7538 Viruses and Five selected Mammals 
- Jing-Doo Wang,Yi-Chun Wang, Rouh-Mei Hu andJeffrey Tsai
- International Journal of Data Mining and Bioinformatics (IJDMB)(SCIE) 
-
-
-A Novel Approach to Extract Significant Time Interval Patterns of Vehicles from Freeway Gantry Timestamp Sequences
-Jing-Doo Wang and Ming-Chorng Hwang
- Applied Sciences, 2017, 7(9), 878; doi:10.3390/app7090878. (SCIE, IF=1.679)
-
-(Special Issue "Selected Papers from IEEE ICASI 2017") 
-
-
-
-Extracting Significant Pattern Histories from Timestamped Texts using MapReduce
-Jing-Doo Wang
-
-Journal of Supercomputing, 72(8), pp. 3236-3260, DOI 10.1007/s11227-016-1713-z, April 2016
-(SCI, SCIE 2014 JCR ,IF=0.858,RANK=56/102, COMPUTER SCIENCE, THEORY & METHODS)
-
- Shape Query for Pattern History in PubMed Literatures via Haar Wavelet
-Jing-Doo Wang, Zhong-Kai Jiang, Jui-Chi Chen 
-International Journal of Advanced Information Technologies(IJAIT), Vol. 9 ;No. 6. pp. 67-76, December 2015.	
-
-	Combination Therapy Using Chelating Agent and Zinc for Wilson’s Disease. 
- A Novel BLAST-Based Relative Distance (BBRD) Method Can Effectively Group Members ofProtein ArginineMethyltransferases and Suggest theirEvolutionary Relationship. 
+ “A Trustworthy Web-basedSystem Platform for Teaching Evaluation and STEM Education"
+ “The Design and Applicationof a Web-Based Teacher Evaluation System for STEM Education"
+ “Safety Relay Selection AlgorithmsBased on Fuzzy Relationship for Wireless Sensor Networks
+ “An ElGamal-like Secure Channel FreePublic Key Encryption with Keyword Search Scheme
+ “A Novel LSB Data Hiding Scheme with theLowest Distortion
+ “PasswordAuthenticated Key Exchange and Protected Password Change Protocols
+ “Development of A Data Hiding SchemeBased On Combination Theory For Lowering The Visual Noise In Binary Images
+ “A SecurePrivacy and Authentication Protocol for Passive RFID Tags
+ “Achieving DynamicData Guarantee and Data Confidentiality of Public Auditing in Cloud StorageService
+ “A New LosslessEmbedding Techniques Based on HDWT
+ “An AuthenticationProtocol for Lightweight NFC Mobile Sensors Payment
+ “DigitalSignature with Message Recovery Based on Factoring and Discrete Logarithm
+“The ModeratelyHard DoS-resistant Authentication Protocol on Client Puzzles
+ “Cases Study andAnalysis of the Court Judgement of Cybercrimes in Taiwan
+ “SecurityAnalysis of an Enhanced Mobile Agent Device for RFID Privacy Protection
+ “An EfficientIC-Lock Self-Reader Data Security in Cloud Computing
+ “A New Public KeyEncryption with Conjunctive Field Keyword Search Scheme
+ “Data ErrorLocations Reported by Public Auditing in Cloud Storage Service
+ “A Conference KeyDistribution Scheme in Tree Hierarchies
+ “Security onImprovement of Modified Authenticated Key Agreement Protocol
+ “TowardsSecure and Efficient User Authentication Scheme Using Smart Card forMulti-Server Environments
+ “Privacy ProtectionData Access Control
+ “An AuthenticationScheme for the Global Mobility Network
+ “A Study ofConjunctive Keyword Searchable Schemes
+ “Reversible andhigh-capacity data hiding in high quality medical images
+ “Reversible DataHiding for Medical Images in Cloud Computing Environments Based on ChaoticHnon Map
+ “A Survey onAttribute-Based Encryption Schemes of Access Control in Cloud Environments
+ “A Key Agreement for Large Group UsingBilinear Maps
+ “A Simple KeyAssignment for Access Control Based on Polynomial”
+ “A New ProxySignature Scheme for a Specified Group of Verifiers
+ “A n2+n MQV KeyAgreement Protocol”
+ “A New Proxy SignatureScheme for a Specified Group of Verifiers
+ “A Secure Image Authentication Scheme for Tamper Detection andRecovery”
+ “A Hierarchical Data Access andKey Management in Cloud Computing”
+ “A Secure Routing Protocolwith Node Selfishness Resistance in MANETs”
+ “A High QualityImage Sharing with Steganography and Adaptive Authentication Scheme”
+ “A Lightweight Anonymous RoutingProtocol without Public Key En/Decryptions for Wireless Ad Hoc Networks”
+ “On the Security of Self-Certified Public Keys”
+ “An Authentication Protocol for Low-cost RFID Tags”
+ “User-Anonymousand Short-Term Conference Key Distribution System via Link-Layer Routing inMobile Communications”
+ “Generalization of Proxy Signature Based onFactorization”
+ “A Batch Verification for Multiple Proxy Signature”
+ “A capacity-enhanced reversible data hiding scheme based onSMVQ”
+ “An EfficientAuthentication Protocol for Mobile Communications"
+ “A Batch Verifying and Detecting the Illegal Signatures”
+ “A provable billing protocol on the current UMTS”
+ “A Secure and Efficient ECC-based AKA Protocolfor Wireless Mobile Communications”
+ “A Parallel Password-Authenticated KeyExchange Protocol for Wireless Environments”
+ “An Online Biometrics-based SecretSharing Scheme for Multiparty Cryptosystem Using Smart Cards
+ “A Key AgreementScheme for Satellite Communications”
+ “A Cocktail Protocol with the Authentication and Key Agreement on theUMTS”
+ “An EfficientBiometrics-based Remote User Authentication Scheme Using Smart Cards”
+ “A New Group Signature Scheme Based onthe Discrete Logarithm”
+ “DoS-resistant ID-based Password AuthenticationScheme Using Smart Cards”
+ “The UMTS-AKA Protocols for Intelligent Transportation Systems”
+ “Adaptive Authentication Schemes for 3D Mesh Models”
+ “A Simple Method for Detecting Protein Spots in 2D-GEImages Using Image Contrast”
+ “An Efficient Sensor-to-Sensor Authenticated Path-Key EstablishmentScheme for Secure Communications in Wireless Sensor Networks”
+ “TK-AKA: Using Temporary Key onAuthentication and Key Agreement Protocol on UMTS”
+ “An Extended Certificate-based Authentication and SecurityProtocol for Mobile Networks”
+ “A Progressive Image Transmission Method for 2D-GEImage Based on Context Feature with Different Thresholds”
+ “Further Improvement on A Novel Privacy Preserving Authenticationand Access Control Scheme for Pervasive Computing Environments”
+ “A Certificate-based Watermarking Schemefor Coloured Images”
+ “An Improved Address Ownership in Mobile IPv6”
+ “A Key Management for WirelessCommunications”
+ “A Secure and Efficient Communication Scheme with AuthenticatedKey Establishment and Privacy Preserving for Vehicular Ad Hoc Networks”
+ “A New Authentication Protocol Based on Pointer Forwardingfor Mobile Communications”
+ “An Electronic Voting Protocol with Deniable Authentication forMobile Ad Hoc Networks”
+ “A High Quality Steganographic Methodwith Pixel-value Differencing and Modulus Function”
+ “An Efficient Multi-Round Anonymous Auction Protocol”
+ “A Simple Mobile Communication Billing System Among ChargedParties”
+ “Improving the Security of a Secure Anonymous Routing Protocolwith Authenticated Key Exchange for Ad Hoc Networks”
+ “ANew Multi-stage Secret Sharing Scheme Using One-way Function”
+“Cryptanalysis of an Efficient Secure Group Signature Scheme”
+ “AKey Authentication Scheme With Non-repudiation”
+ “A Server-Assissted Authentication Protocol for Detecting ErrorVectors”
+ “AnAuthentication Scheme for Mobile Satellite Communication Systems”
+ “ImprovedNon-repudiable Threshold Proxy Signature Scheme with Known Signers”
+ “Security Enhancement for Optimal Strong-Password AuthenticationProtocol”
+ “A RobustAuthentication Scheme for Protecting Copyrights of Images and Graphics”
+ “SecureAccess Schemes in Mobile Database Systems”
+ “A Remote PasswordAuthentication Scheme Based on the Digital Signature Method”
+ “Dynamic Participation in aSecure Conference Scheme for Mobile Communications”
+ “Enhanced Privacy andAuthentication for the Global System of Mobile Communications”
+ “Extension of CHWCryptographic Key Assignment Scheme in a Hierarchy”
+ “A Novel Application of the PhoneCard and Its Authentication in Mobile Communications”
+ “A Watermarking Technique Based on One-way Hash Functions"
+ “Cryptanalysis of Remote LoginAuthentication Scheme”
+ “An Improvement of Novel CryptographicKey Assignment Scheme for Dynamic Access Control in a Hierarchy”
+ “An Improvement of a DynamicCryptographic Key Assignment Schemes in a Tree Hierarchy”
+ “A Virtual ImageCryptosystem Based upon Vector Quantization”
+ “A Cryptographic KeyAssignment Scheme in a Hierarchy for Access Control”
+ “AuthenticatedKey-Exchange in a Mobile Radio Network”
+ “MultilevelSecure Database Encryption with Subkeys”
+ “Parallel Computation of the Generating Keys forRSA Cryptosystems”
+ “An Access Control Scheme Based on Chinese Remainder Theorem and TimeStamp Concept”
+ “A Two-PhaseEncryption Scheme for Enhancing Database Security”
+ “ConferenceKey Distribution Protocols for Digital Mobile Communication Systems"
+ “A NewDynamic Access Control Scheme Based on Subject-Object-List”
+ “A Two-Key-Lock-Pair Access Control Method Using Prime Factorization andTime Stamp”
+ “Modified Chang-Hwang-Wu Access Control Scheme”
